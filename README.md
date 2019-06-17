@@ -4,7 +4,7 @@ Repository for the auto save file sync currently in use for Satisfactory.
 # English:
 
 How to use:
-1. Download the files from this repo: (https://google.com)[https://google.de](https://google.com)
+1. Download the files from this repo: https://github.com/Panossa/cloudsaves/archive/master.zip
 2. Install GIT on your Windows 7+ PC: https://git-scm.com/download/win
   -> You don't need "GIT GUI" or "GIT BASH" but the path variable is important!
 3. Create a public(!) repository on GitHub.
@@ -23,7 +23,7 @@ Important hints!:
 # Deutsch:
 
 Wie man es benutzt:
-1. Lade die Dateien aus dieser Repository runter:
+1. Lade die Dateien aus dieser Repository runter: https://github.com/Panossa/cloudsaves/archive/master.zip
 2. Installier' dir GIT auf deinem Windows 7+ PC: https://git-scm.com/download/win
   -> Du brauchst nicht "GIT GUI" oder "GIT BASH" zu installieren, aber die "Path Variable" setzen ist das Wichtige!
 3. Erstelle eine öffentliche(!) Repository auf GitHub.
